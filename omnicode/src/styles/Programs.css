@@ -1,0 +1,41 @@
+.contain {
+  margin-top: 80px;
+  margin-bottom: 150px;
+}
+
+.contain .text {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+.contain h1 {
+  margin-bottom: 13px;
+}
+
+.contain p {
+  font-size: 13px;
+}
+
+.programs{
+  height: 400px;
+  display: flex;
+  font-size: 13px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.col{
+  margin: auto;
+  flex-basis: 20%;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+  border: 0.5px black solid;
+  height: 300px;
+}
+
+.col img{
+  margin-bottom: 13px;
+}

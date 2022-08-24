@@ -1,0 +1,23 @@
+.leadership{
+  height: 400px;
+  display: flex;
+  font-size: 14px;
+  width: 90%;
+  margin: auto;
+  margin-top: 150px;
+  margin-bottom: 200px;
+}
+
+.col{
+  margin: auto;
+  flex-basis: 20%;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+  border: 1px black solid;
+  height: 300px;;
+}
+
+.col img{
+  margin-bottom: 13px;
+}
