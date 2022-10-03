@@ -8,7 +8,7 @@ class Leadership extends React.Component {
       <div className="contain">
         <div className="text">
           <h1>Programs</h1>
-          <p>We offer a multitute of programs throughout the year</p>
+          <p>We offer a multitute of programs throughout the year.</p>
         </div>
         <div className="programs">
           <Card name="Fall" description="placeholder"/>

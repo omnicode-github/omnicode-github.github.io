@@ -6,10 +6,10 @@ class Leadership extends React.Component {
   render() {
     return (
       <div className="leadership">
-        <Card name="name" description="placeholder"/>
-        <Card name="name" description="placeholder"/>  
-        <Card name="name" description="placeholder"/>  
-        <Card name="name" description="placeholder"/>  
+        <Card name="Eric Sohel" description="placeholder"/>
+        <Card name="Yusha Aziz" description="placeholder"/>  
+        <Card name="Samin Sarker" description="placeholder"/>  
+        <Card name="Nakib Abedin" description="placeholder"/>  
       </div>
     );
   }

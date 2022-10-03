@@ -1,9 +1,11 @@
 .container {
-  height: 70px;;
+  height: 50px;;
   display: flex;
   flex-direction: row;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Inconsolata', monospace;
   font-weight: 200;
+  background: black;
+  color: white;
 }
 
 .container .logo {
@@ -11,15 +13,17 @@
   display: flex;
   align-items: center;
   justify-content: left;
-  padding-left:100px ;
+  padding-left:150px ;
   font-size: 17px;
 }
 
 .container .links {
-  flex: 50%;
+  flex: 20%;
   display: flex;
   align-items: center;
   justify-content: center;
+  font-size: 14px;
+  padding-right:150px ;
 }
 
 .container ul li{
@@ -28,12 +32,12 @@
 
 .container a {
   text-decoration: none;
-  margin: 40px;
-  color: black;
+  margin: 30px;
+  color: white;
 }
 
 .container a:hover {
-  text-decoration: none;
-  margin: 40px;
   text-decoration: underline;
+  margin: 30px;
+  color: white;
 }
